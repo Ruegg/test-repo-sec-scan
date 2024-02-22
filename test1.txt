@@ -1,3 +1,5 @@
 wowowow
 
 pinr.veryshort123alphanumericalStRiNg
+
+pinr.eyJhbGciOiJSUzI1NiIsInNpZyI6MSwidHlwZSI6IkpXVCIsInZlciI6MX0=.eyJjbGllbnRfaWQiOjE0MzE2MDEsImV4cCI6NjMwNzIwMDAsImlhdCI6MTY3NzYxMzgyNCwibmJmIjoxNjc3NjEzODI0LCJzdWIiOjY5ODk3Mjk0MjA3NTM2OTQxMX0=.shoRtSignatURE==
