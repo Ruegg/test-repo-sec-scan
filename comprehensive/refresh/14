@@ -1,0 +1,5 @@
+new keys no sig
+
+"pinr." + btoa(`{"alg":"Apple","sig":1,"type":"Apple","ver":1, "newKey": "yes"}`) + "." + btoa(`{"client_id":1,"exp":1,"iat":1,"nbf":1,"sub":1, "newKey": "yes2"}`);
+
+pinr.eyJhbGciOiJBcHBsZSIsInNpZyI6MSwidHlwZSI6IkFwcGxlIiwidmVyIjoxLCAibmV3S2V5IjogInllcyJ9.eyJjbGllbnRfaWQiOjEsImV4cCI6MSwiaWF0IjoxLCJuYmYiOjEsInN1YiI6MSwgIm5ld0tleSI6ICJ5ZXMyIn0=

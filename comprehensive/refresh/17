@@ -1,0 +1,3 @@
+"pinr." + btoa(`{"alg":"RS256","sig":1,"type":"JWT","ver":1}`) + "." + btoa(`randomButValidBase64`);
+
+pinr.eyJhbGciOiJSUzI1NiIsInNpZyI6MSwidHlwZSI6IkpXVCIsInZlciI6MX0=.cmFuZG9tQnV0VmFsaWRCYXNlNjQ=

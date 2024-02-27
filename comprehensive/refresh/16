@@ -1,0 +1,3 @@
+"pinr." + btoa(`{"alg":"RS256","sig":1,"type":"JWT","ver":1}`) + "." + btoa(`{"checkingFirstShapeValidationOnly": "butJSONSecond"}`);
+
+pinr.eyJhbGciOiJSUzI1NiIsInNpZyI6MSwidHlwZSI6IkpXVCIsInZlciI6MX0=.eyJjaGVja2luZ0ZpcnN0U2hhcGVWYWxpZGF0aW9uT25seSI6ICJidXRKU09OU2Vjb25kIn0=
