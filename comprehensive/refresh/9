@@ -1,0 +1,3 @@
+"pinr." + btoa(`{"alg":"something","sig":3,"type":"something","ver":1234}`) + "." + btoa(`{"a": 3}`)
+
+pinr.eyJhbGciOiJzb21ldGhpbmciLCJzaWciOjMsInR5cGUiOiJzb21ldGhpbmciLCJ2ZXIiOjEyMzR9.eyJhIjogM30=
