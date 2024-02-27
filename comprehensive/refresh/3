@@ -1,0 +1,6 @@
+empty values - no sig
+
+"pinr." + btoa(`{"alg":"","sig":0,"type":"","ver":0}`) + "." + btoa(`{"client_id":0,"exp":0,"iat":0,"nbf":0,"sub":0}`)
+
+
+pinr.eyJhbGciOiIiLCJzaWciOjAsInR5cGUiOiIiLCJ2ZXIiOjB9.eyJjbGllbnRfaWQiOjAsImV4cCI6MCwiaWF0IjowLCJuYmYiOjAsInN1YiI6MH0=
