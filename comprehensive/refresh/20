@@ -1,0 +1,6 @@
+single letter string values
+
+"pinr." + btoa(`{"alg":"A","sig":1,"type":"A","ver":1}`) + "." + btoa(`{"client_id":1,"exp":1,"iat":1,"nbf":1,"sub":1}`);
+
+
+pinr.eyJhbGciOiJBIiwic2lnIjoxLCJ0eXBlIjoiQSIsInZlciI6MX0=.eyJjbGllbnRfaWQiOjEsImV4cCI6MSwiaWF0IjoxLCJuYmYiOjEsInN1YiI6MX0=
