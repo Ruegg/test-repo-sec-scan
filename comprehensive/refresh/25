@@ -1,0 +1,5 @@
+use unknown keys first
+
+"pinr." + btoa(`{"a": "b"}`) + "." + btoa(`{"client_id":1,"exp":1,"iat":1,"nbf":1,"sub":1}`);
+
+pinr.eyJhIjogImIifQ==.eyJjbGllbnRfaWQiOjEsImV4cCI6MSwiaWF0IjoxLCJuYmYiOjEsInN1YiI6MX0=
