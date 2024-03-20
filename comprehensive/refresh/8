@@ -1,3 +1,0 @@
-"pinr." + btoa(`{"alg":"something","sig":3,"type":"something","ver":1234}`) + "." + btoa(`{"client_id":0,"exp":0,"iat":0,"nbf":0,"sub":0}`)
-
-pinr.eyJhbGciOiJzb21ldGhpbmciLCJzaWciOjMsInR5cGUiOiJzb21ldGhpbmciLCJ2ZXIiOjEyMzR9.eyJjbGllbnRfaWQiOjAsImV4cCI6MCwiaWF0IjowLCJuYmYiOjAsInN1YiI6MH0=

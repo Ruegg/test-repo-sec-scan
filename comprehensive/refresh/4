@@ -1,6 +1,0 @@
-different keys second - no sig
-
-"pinr." + btoa(`{"alg":"","sig":0,"type":"","ver":0}`) + "." + btoa(`{"a":0,"b":0,"c":0,"d":0,"e":0}`)
-
-
-pinr.eyJhbGciOiIiLCJzaWciOjAsInR5cGUiOiIiLCJ2ZXIiOjB9.eyJhIjowLCJiIjowLCJjIjowLCJkIjowLCJlIjowfQ==

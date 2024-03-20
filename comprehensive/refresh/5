@@ -1,5 +1,0 @@
-different keys first - no sig
-
-"pinr." + btoa(`{"a":"","b":0,"c":"","d":0}`) + "." + btoa(`{"client_id":0,"exp":0,"iat":0,"nbf":0,"sub":0}`)
-
-pinr.eyJhIjoiIiwiYiI6MCwiYyI6IiIsImQiOjB9.eyJjbGllbnRfaWQiOjAsImV4cCI6MCwiaWF0IjowLCJuYmYiOjAsInN1YiI6MH0=

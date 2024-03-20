@@ -1,5 +1,0 @@
-less keys both
-
-"pinr." + btoa(`{"a": ""}`) + "." + btoa(`{"b": ""}`)
-
-pinr.eyJhIjogIiJ9.eyJiIjogIiJ9

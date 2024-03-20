@@ -1,3 +1,0 @@
-"pinr." + btoa(`{"alg":"ABC","sig":1,"type":"JWT","ver":1}`) + "." + btoa(`{"a": 3}`);
-
-pinr.eyJhbGciOiJBQkMiLCJzaWciOjEsInR5cGUiOiJKV1QiLCJ2ZXIiOjF9.eyJhIjogM30=

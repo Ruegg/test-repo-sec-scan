@@ -1,6 +1,0 @@
-value type validation
-
-"pinr." + btoa(`{"alg":1,"sig":1,"type":1,"ver":1}`) + "." + btoa(`{"client_id":1,"exp":1,"iat":1,"nbf":1,"sub":1}`);
-
-
-pinr.eyJhbGciOjEsInNpZyI6MSwidHlwZSI6MSwidmVyIjoxfQ==.eyJjbGllbnRfaWQiOjEsImV4cCI6MSwiaWF0IjoxLCJuYmYiOjEsInN1YiI6MX0=

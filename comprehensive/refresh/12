@@ -1,3 +1,0 @@
-normal no sig
-
-"pinr." + btoa(`{"alg":"RS256","sig":1,"type":"JWT","ver":1}`) + "." + btoa(`{"client_id":1487944,"exp":600,"iat":1709035675,"nbf":1709035675,"sub":1132796249930638914}`);
